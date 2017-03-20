@@ -1,2 +1,2 @@
-# The Website
-The greatest website the world have ever seen.
+# The Project Blog
+The greatest project blog the world have ever seen.
